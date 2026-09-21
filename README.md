@@ -10,4 +10,4 @@ Esta es la página web final desarrollada para el emprendimiento [Aluva], resolv
 * Integrante 4 (Edgar Ignacio Ocaranza Ochoa)
   
 ## Enlace del Despliegue
-🌐 **[Ver la página web en vivo aquí]
+🌐 https://aluvaexamendw.netlify.app/
